@@ -1,0 +1,19 @@
+{
+  "name": "yuanxing-high-school-guide",
+  "version": "2.0.0",
+  "private": true,
+  "description": "面向上海初中生与家长的中文美国高中申请与生活指南",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "dev": "node scripts/serve.mjs",
+    "cache:photos": "node scripts/cache-photos.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check app.js && node --check content.js && node --check enrichment.js && node --check core.js && node --check sw.js && node --check scripts/serve.mjs && node --check scripts/cache-photos.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "jsdom": "29.1.1"
+  }
+}

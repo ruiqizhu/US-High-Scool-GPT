@@ -1,0 +1,74 @@
+{
+  "campus": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Phillips_Academy%2C_Andover%2C_MA_-_Samuel_Phillips_Hall.JPG",
+    "alt": "安多佛菲利普斯学校的 Samuel Phillips Hall 与校园草坪",
+    "credit": "Wikimedia Commons · Phillips Academy",
+    "source": "https://commons.wikimedia.org/wiki/File:Phillips_Academy,_Andover,_MA_-_Samuel_Phillips_Hall.JPG",
+    "allowCache": true,
+    "license": "Public domain · Daderot",
+    "licenseSource": "https://commons.wikimedia.org/wiki/File:Phillips_Academy,_Andover,_MA_-_Samuel_Phillips_Hall.JPG"
+  },
+  "andover": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Samuel_Phillips_Hall_Afternoon.jpg",
+    "alt": "午后阳光下的安多佛校园",
+    "credit": "Wikimedia Commons · 公共领域",
+    "source": "https://commons.wikimedia.org/wiki/File:Samuel_Phillips_Hall_Afternoon.jpg",
+    "allowCache": true,
+    "license": "CC0 · NCD2004",
+    "licenseSource": "https://commons.wikimedia.org/wiki/File:Samuel_Phillips_Hall_Afternoon.jpg"
+  },
+  "classroom": {
+    "url": "https://exeter.edu/app/uploads/2024/07/healthandhumandev.jpg",
+    "alt": "埃克塞特学生围坐在 Harkness 圆桌旁讨论",
+    "credit": "Phillips Exeter Academy · 官方课堂照片",
+    "source": "https://exeter.edu/bulletin-the-exeter-classroom-then-and-now/",
+    "allowCache": false,
+    "license": "官方照片，缓存授权尚未确认",
+    "licenseSource": "https://exeter.edu/bulletin-the-exeter-classroom-then-and-now/"
+  },
+  "harkness": {
+    "url": "https://exeter.edu/app/uploads/2024/09/AI6A5334-sized-for-web-1024x683.jpg",
+    "alt": "埃克塞特的老师与学生一起进行课堂讨论",
+    "credit": "Phillips Exeter Academy · 官方照片",
+    "source": "https://exeter.edu/academics/center-for-teaching-learning/harkness-toolbox/",
+    "allowCache": false,
+    "license": "官方照片，缓存授权尚未确认",
+    "licenseSource": "https://exeter.edu/academics/center-for-teaching-learning/harkness-toolbox/"
+  },
+  "library": {
+    "url": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1000&q=80",
+    "alt": "安静的图书馆书架与阅读空间，校园氛围示意",
+    "credit": "Unsplash · 图书馆氛围配图，非特定学校",
+    "source": "https://unsplash.com/photos/turned-on-lights-in-the-library-9BoqXzEeQqM",
+    "allowCache": true,
+    "license": "Unsplash License",
+    "licenseSource": "https://unsplash.com/license"
+  },
+  "students": {
+    "url": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1000&q=80",
+    "alt": "学生在户外交流，校园生活氛围示意",
+    "credit": "Unsplash · 校园生活氛围配图，非特定学校",
+    "source": "https://unsplash.com/",
+    "allowCache": true,
+    "license": "Unsplash License",
+    "licenseSource": "https://unsplash.com/license"
+  },
+  "sports": {
+    "url": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1000&q=80",
+    "alt": "户外跑道和运动场，课外运动氛围示意",
+    "credit": "Unsplash · 运动氛围配图，非特定学校",
+    "source": "https://unsplash.com/",
+    "allowCache": true,
+    "license": "Unsplash License",
+    "licenseSource": "https://unsplash.com/license"
+  },
+  "study": {
+    "url": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=1000&q=80",
+    "alt": "笔记本、书籍与手写学习记录",
+    "credit": "Unsplash · 学习氛围配图",
+    "source": "https://unsplash.com/",
+    "allowCache": true,
+    "license": "Unsplash License",
+    "licenseSource": "https://unsplash.com/license"
+  }
+}
